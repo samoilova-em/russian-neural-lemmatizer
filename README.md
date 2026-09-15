@@ -22,8 +22,8 @@ Neural morphological analyzer for the Russian language that performs lemmatizati
 ## Результаты
 
 Модель была обучена на корпусе  [OpenCorpora](https://web.archive.org/web/20160322215834/http://opencorpora.org/files/export/annot/annot.opcorpora.xml.bz2). На отложенной тестовой выборке достигнуты следующие метрики:
-- **POS Accuracy**: ~85.0%
-- **Lemma Accuracy**: ~81.5%
+- **POS Accuracy**: ~94.47%
+- **Lemma Accuracy**: ~81.48%
 
 Несмотря на то, что словари не содержали сленговых слов, модель в целом верно их распознает, по характерным суффиксам и позиции в предложении.
 
